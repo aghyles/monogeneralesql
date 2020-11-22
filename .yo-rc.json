@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.aghyles.generalemonosql03",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "generalemonosql03",
+    "packageName": "com.aghyles.generalemonosql03",
+    "packageFolder": "com/aghyles/generalemonosql03",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmJlYjUxMWNmODljMjRiOTk2NjY5NmI2ZDQwNjM0YTliODk2YjViMDYyNTk0MTBkNDBhZjczYjJjNTgyNjFjNzMzNGNjYTdjNGNjN2FkODAyMGY4NzkyOGRiYjUxNmJhMDdmM2IzZjFkZmI3YWUzMDlmYjQ5NTRkNDZlOTk5MWE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1606051745020,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr"],
+    "blueprints": []
+  }
+}
